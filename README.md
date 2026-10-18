@@ -1,2 +1,2 @@
 # digital---access---productivity---analysis
-Analysis of digital access and economic productivity using World Bank data
+Analysis of digital access and economic productivity using World Bank data of 60 countries
